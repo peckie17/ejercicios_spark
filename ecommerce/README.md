@@ -1,4 +1,5 @@
 # Ecommerce
 
-Esquema general de la tabla
-![esquema](ecommerce/esquema ecommerce.png)
+- Esquema general de la tabla
+
+![esquema](ecommerce/esquema_ecommerce.png)
