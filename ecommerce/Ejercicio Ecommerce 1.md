@@ -1,7 +1,7 @@
 ---
 title: Ejercicio Ecommerce 1
 aliases: []
-tags: [zophia/reto/ecommerce1,DE,airflow]
+tags: [zophia/reto/ecommerce1,DE,spark]
 date: 2022-02-03
 ---
 # Ejercicio Ecommerce 1
